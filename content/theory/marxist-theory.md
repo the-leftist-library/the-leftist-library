@@ -1,5 +1,3 @@
 +++
-title = "My second post"
+title = "Marxist Theory"
 +++
-
-This is my second blog post.
