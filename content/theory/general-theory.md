@@ -1,5 +1,5 @@
 +++
-title = "My first post"
+title = "General Theory"
 +++
 
 | Work | Author | Type | Description |
